@@ -4,9 +4,9 @@ Exercise 1
 
 1.This Java program creates a class called Employee to store information about employees. The class has the following instance variables:
 
-*name (String)
-*age (int)
-*salary (double)
+- name (String)
+- age (int)
+- salary (double)
 
 2.The Employee class also has the following methods:
 
