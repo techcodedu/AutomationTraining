@@ -10,12 +10,12 @@ Exercise 1
 
 2.The Employee class also has the following methods:
 
-*getName(): returns the name of the employee
-*getAge(): returns the age of the employee
-*getSalary(): returns the salary of the employee
-*setSalary(double newSalary): sets the salary of the employee to a new value
-*getAnnualSalary(): returns the annual salary of the employee (assuming 12 months in a year)
-*raiseSalary(double percentage): increases the salary of the employee by a given percentage
+- getName(): returns the name of the employee
+- getAge(): returns the age of the employee
+- getSalary(): returns the salary of the employee
+- setSalary(double newSalary): sets the salary of the employee to a new value
+- getAnnualSalary(): returns the annual salary of the employee (assuming 12 months in a year)
+- raiseSalary(double percentage): increases the salary of the employee by a given percentage
 
 3.The program creates three Employee objects and sets their values using the constructor. Then, the program displays the initial name, age, and salary of each employee using the getName(), getAge(), and getSalary() methods.
 
